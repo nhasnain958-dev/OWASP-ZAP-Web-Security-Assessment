@@ -94,11 +94,10 @@ OWASP ZAP identified that some CSP directives were missing or broadly defined.
 ### 4. HTTP Response
 ![HTTP Response](./04-HTTP-Response.png)
 
-### 5. Security Alerts
-![Security Alerts](./05-Security-Alerts.png)
 
-### 6. CSP Alert Evidence
-![CSP Alert Evidence](./06-CSP-Alert-Evidence.png)
+
+### 5. CSP Alert Evidence
+![CSP Alert Evidence](./05-CSP-Alert-Evidence.png)
 
 
 

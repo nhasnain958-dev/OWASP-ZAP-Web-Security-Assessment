@@ -83,22 +83,23 @@ OWASP ZAP identified that some CSP directives were missing or broadly defined.
 ## Screenshots and Evidence
 
 ### 1. OWASP ZAP Main Interface
-![ZAP Interface](screenshots/01-ZAP-Interface.png)
+![ZAP Interface](./01-ZAP-Interface.png)
 
 ### 2. Target Website
-![Target Website](screenshots/02-Target-Website.png)
+![Target Website](./02-Target-Website.png)
 
 ### 3. HTTP Request
-![HTTP Request](screenshots/03-HTTP-Request.png)
+![HTTP Request](./03-HTTP-Request.png)
 
 ### 4. HTTP Response
-![HTTP Response](screenshots/04-HTTP-Response.png)
+![HTTP Response](./04-HTTP-Response.png)
 
 ### 5. Security Alerts
-![Security Alerts](screenshots/05-Security-Alerts.png)
+![Security Alerts](./05-Security-Alerts.png)
 
 ### 6. CSP Alert Evidence
-![CSP Alert Evidence](screenshots/06-CSP-Alert-Evidence.png)
+![CSP Alert Evidence](./06-CSP-Alert-Evidence.png)
+
 
 
 The observed CSP policy included directives such as:
